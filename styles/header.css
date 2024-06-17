@@ -32,4 +32,17 @@
 
 .container_botao:checked~.lista-menu{
     display:block;
+    color: var(--laranja)
 }
+
+.container-botao{
+    display: none;
+}
+
+
+
+
+
+
+
+
