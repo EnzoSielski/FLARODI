@@ -20,9 +20,11 @@
     padding: 1em;
 }
 
-
-
-
+.lista-menu__titulo,
+.lista-menu__item {
+  padding: 1em;
+  background-color: var(--branco);
+}
 
 .lista-menu{
     display: none;
